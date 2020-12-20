@@ -9,7 +9,7 @@
 4. relevance_assessment.txt - relevant documents for each query from query.txt file to calculate precision and recall recall metrics
 ```
 
-In ir_2.py (code file) -
+In ir_1.py (code file) -
 
 ### Task 1 Inverted Index Construction
 
