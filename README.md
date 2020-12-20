@@ -1,5 +1,7 @@
 # Information-Retrieval-1
 
+## Constructing Inverted Index, Applying Linguistic Models and Generating Bigram Index.
+
 ```
 1. ir_1.py - code file
 2. documents.txt - contains the documents 
